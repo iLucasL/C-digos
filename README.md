@@ -1,2 +1,2 @@
-# C-digos
+# Codigos
 pasta onde mandarei os códigos
